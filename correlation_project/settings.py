@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-sn6ggij8mssp&a!(#(ihar)@m41ev9-zha^7(ni=9!5fjlwg1^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://corre-map-test.onrender.com'] #デプロイ後にRenderのURLに変更します
+ALLOWED_HOSTS = ['corre-map-test.onrender.com','127.0.0.1:8000'] #デプロイ後にRenderのURLに変更します
 
 
 # Application definition
